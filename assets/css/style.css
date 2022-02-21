@@ -174,7 +174,7 @@ button {
 
 footer {
     color: rgba(37, 37, 37, 255);
-    position: relative;
+    position: absolute;
     width: 100%;
     height: 150px;
     background-image: url("../img/mentali.png");
