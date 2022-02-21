@@ -375,6 +375,7 @@ input {
         margin-top: 5px;
         width: 60%;
         position: absolute;
+        margin-bottom: 20px;
     }
 
     #player1 {
