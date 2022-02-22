@@ -385,7 +385,8 @@ input {
     }
 
     #player1>img {
-        height: 50px;
+        height: 100px;
+        width: 100px;
     }
 
     #player2 {
@@ -397,7 +398,8 @@ input {
     }
 
     #player2>img {
-        height: 50px;
+        height: 100px;
+        width: 100px;
     }
 
 
